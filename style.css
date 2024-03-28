@@ -1,0 +1,648 @@
+
+h1,h2,h3,h4,h5,h6{
+ font-family: "Roboto Flex", sans-serif;
+     font-weight: 500;
+  
+}
+p{
+font-family: "Roboto Flex", sans-serif;
+}
+
+.set2 .row {
+    display: flex;
+}
+
+.container{
+	 width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.column1{
+	width:15%;
+}
+.column2{
+	width:70%;
+}
+.set1 .rowa {
+    
+	
+}
+.topbutton {
+    display: flex;
+}
+.top a {
+    text-decoration: none;
+    color: black;
+	padding: 20px;
+    font-size: 16px;
+	    border-bottom: 2px solid transparent;
+}
+
+
+
+.topbutton a {
+    text-decoration: none;
+    color: black;
+}
+.top {
+    padding: 13px 64px;
+        justify-content: end;
+    display: flex;
+}
+section.set1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+	background-image: url(visual.jpg);
+}
+.log {
+    display: contents;
+}
+.log a {
+    font-weight: 600;
+}
+.post a {
+      font-size: 17px;
+    padding: 15px 34px;
+    border-radius: 31px;
+    color: black;
+    border: 1px solid;
+	text-decoration: none;
+}
+
+.postt a {
+      font-size: 17px;
+    padding: 15px 34px;
+    border-radius: 31px;
+    color: white;
+    border: 1px solid;
+	text-decoration: none;
+}
+
+
+.set2 .two a {
+    font-size: 17px;
+    padding: 15px 34px;
+    border-radius: 31px;
+    color: black;
+    border: 1px solid;
+    text-decoration: none;
+	
+}
+.set2 .twoa a {
+    font-size: 17px;
+    padding: 15px 34px;
+    border-radius: 31px;
+    color: black;
+    border: 1px solid;
+    text-decoration: none;
+}
+.set2 a.b {
+    background-color: black;
+    color: white;
+    border: none;
+}
+.set2 a.b:hover {
+    background-color: #bdbfc4;
+	color:black;
+}
+.set2 .twoa a:hover {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+
+.find a {
+    font-size: 17px;
+    background-color: #20ca83;
+    padding: 20px 44px;
+    border-radius: 31px;
+    color: white;
+	text-decoration: none;
+}
+a.indeed  {
+        font-size: 17px;
+    background-color: white;
+    padding: 46px 61px;
+    border-radius: 57px;
+    color: white;
+    text-decoration: none;
+}
+.indeed img {
+    width: 45%;
+}
+.set6 .rowc {
+    display: flex;
+}
+.set6 .rowb {
+    padding-bottom: 49px;
+}
+.talent a {
+    font-size: 17px;
+    background-color: white;
+    padding: 20px 44px;
+    border-radius: 31px;
+    color: black;
+	text-decoration: none;
+}
+
+
+
+.talent a:hover {
+    background-color: #20ca83;
+}
+
+
+.columnhire{
+	width:50%;
+}
+.column1 img {
+    cursor: pointer;
+}
+.set1 .rowb {
+    display: flex;
+	padding-top: 65px;
+    padding-bottom: 35px;
+}
+.set1 h1 {
+    font-size: 60px;
+
+}
+.set1 p {
+    font-size: 18px;
+	padding-bottom: 60px 
+}
+.set1 .button2 {
+    display: flex;
+	gap: 13px;
+}
+.set1 .box {
+    padding-top: 89px;
+}
+.set1 .post a:hover {
+    border: none;
+    background-color: #b0bbba;
+    color: white;
+}
+.set2 .fle {
+    display: flex;
+	    gap: 12px;
+}
+
+.set2 h1 {
+    font-size: 62px;
+	    font-weight: 500;
+		    width: 86%;
+			     margin-top: 134px;  
+}
+
+section.set2 {
+    background-color: #e5e6e1;
+	    padding-top: 0px;
+    padding-bottom: 54px;
+}
+
+section.set3 {
+    padding-top: 97px;
+	    padding-bottom: 4%;
+}
+.set3 h2.row {
+    font-size: 48px;
+    text-align: center;
+}
+.font a {
+   font-size: 27px;
+    text-decoration: none;
+    color: black;
+}
+.set3 .column {
+    padding: 35px 40px 40px;
+	        box-shadow: 0px 2px 18px 0px #eeeeee;
+			    border-radius: 10px;
+}
+.set3 h2 {
+    font-size: 48px;
+    text-align: center;
+}
+.set3 .row {
+    margin-bottom: 51px;
+}
+
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.font a:hover {
+    color: #b0bbbe;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.set1 .rowa {
+    display: flex;
+    align-items: center;
+}
+.set1 .desktop {
+    display: contents;
+}
+section.set4 {
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.set4 h1 {
+        font-size: 52px;
+}
+.set4 .row {
+    display: flex;
+	    column-gap: 155px;
+}
+.set4 .column {
+    width: 50%;
+	    
+}
+.me{
+    background-color: black;
+    color: white;
+    padding: 15px 46px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+}
+.mee{
+    background-color: black;
+    color: white;
+    padding: 15px 46px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+}
+
+
+.set4 a.me:hover {
+    background-color: #b0bbba;
+}
+h2 {
+    font-size: 46px;
+}
+a.Free{
+    
+    color: black;
+    padding: 15px 49px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+	border:1px solid;
+}
+.set5 .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	    column-gap: 246px;
+}
+a.Free:hover {
+    background-color: #b0bbba;
+    border: none;
+}
+.set5 .column {
+    width: 66.66%;
+}
+.set5 .column5 {
+    width: 33.33%;
+}
+p{
+    font-size: 18px;
+}
+.three {
+    display: flex;
+	gap: 9px;
+    align-items: baseline;
+}
+.person {
+       display: flex;
+    gap: 25px;
+    align-items: center;
+	    margin-top: 28px;
+}
+
+
+
+.set5 .row2 {
+    display: flex;
+    padding-top: 27px;
+    padding-bottom: 16px;
+}
+
+section.set5 {
+    padding-bottom: 64px;
+}
+section.set6 {
+        padding-top: 100px;
+    padding-bottom: 112px;
+	    background-color: #e5e6e1;
+}
+.set6 .row {
+    display: flex;
+	column-gap: 273px;
+}
+.set6 .column6 {
+    width: 41.66%;
+}
+.set6 .column7 {
+    width:58.34%;
+}
+.set6 img {
+    border-radius: 42px;
+}
+a.me:hover {
+    background-color: #b0bbba;
+}
+a.mee:hover {
+    background-color: #b0bbba;
+}
+section.set7 {
+    padding-top: 71px;
+}
+.set7 .row {
+    margin-bottom: 57px;
+}
+
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  
+}
+
+/* Slides */
+.mySlides {
+      display: flex !important;
+  padding: 80px;
+  text-align: center;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 16px;
+  color: #888;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+}
+
+/* The dot/bullet/indicator container */
+.dot-container {
+    text-align: center;
+    padding: 20px;
+    background: #ddd;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
+
+/* Add a blue color to the author */
+.author {color: cornflowerblue;}
+
+
+.set7 .columns {
+        width: 64%;
+    padding: 11px 42px;
+    font-size: 20px;
+	    background-color: #e5e6e1;
+    border-radius: 14px;
+}
+.set7 .font {
+    text-align: left;
+}
+.set8 h3 {
+    font-size: 47px;
+    text-align: center;
+    width: 101%;
+}
+section.set8 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.set8 .column6 {
+    width: 16.66%;
+}
+.set8 .row2 {
+    display: flex;
+	padding-top: 32px;
+}
+section.set8 {
+    padding-top: 50px;
+    padding-bottom: 85px;
+}
+section.set9 {
+       padding-top: 115px;
+    padding-bottom: 105px;
+        background-color: #222222;
+}
+.set9 .icons.d-flex.text-white.gap-3 {
+    margin-top: 35px;
+	    gap: 21px;
+    display: flex;
+}
+.set9 h4 {
+    margin-bottom: 0px;
+}
+.set9 .columnl {
+    width: 50%;
+	    display: flex;
+}
+.set9 .columns {
+    width: 100%;
+}
+.set9 .about {
+    margin-bottom: 52px;
+}
+.set9 .row {
+    display: flex;
+	justify-content: space-around;
+    align-items: baseline;
+}
+input#mce-EMAIL2 {
+        padding: 16px 138px;
+    background-color: black;
+    color: white;
+    border: 1px solid red;
+    border-radius: 14px;
+}
+.set9 .row2 {
+    display: flex;
+	    gap: 57px;
+		    margin-top: 68px;
+}
+.two {
+    display: flex;
+    gap: 14px;
+}
+.set9 li.py-1 {
+    margin-top: 3px;
+	    font-size: 14px;
+		    list-style: none;
+}
+.postt a:hover {
+    background-color: #b0bbba;
+    border: none;
+}
+i.fa.fa-facebook:hover {
+    border-bottom: 3px solid #faf9f8;
+}
+i.fa.fa-twitter:hover {
+    border-bottom: 3px solid #faf9f8;
+}
+i.fa.fa-firefox:hover {
+	border-bottom: 3px solid #faf9f8;
+}
+.sub {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 7px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+input[type="email"] {
+	    padding: 6px 124px;
+        background-color: #222222;
+    border: none;
+	    outline: none;
+}
+
+.set9 .form {
+    border: 1px solid red;
+    padding: 5px 12px;
+    border-radius: 30px;
+}
+.twoa {
+    margin-top: 17px;
+}
+a.sub:hover {
+    background-color: #b0bbba;
+}
+img.scale {
+    
+    scale: 1.2;
+}
+.count {
+    display: flex;
+}
+span#counter1 {
+    font-size: 64px;
+}
+span#counter2 {
+    font-size: 64px;
+}
+.counter {
+  display: inline-block;
+  font-size: 24px;
+  margin-right: 20px;
+}
+.top a:hover {
+    border-bottom: 2px solid #2b282847;
+	
+}
+.font p {
+    font-size: 18px;
+    color: #222222;
+    line-height: 1.6;
+}
+sup {
+    font-size: 53px;
+    font-weight: bold;
+}
+.no a:hover {
+    color: #a7b9ba !important;
+}
+.set9 li {
+    list-style: none;
+    font-size: 15px;
+}
+.set9 li {
+    list-style: none;
+    font-size: 15px;
+    line-height: 20px;
+}
